@@ -1,0 +1,16 @@
+/home/abdil/RiderProjects/Opdrachten/Les3_dict/bin/Debug/net5.0/Les3_dict
+/home/abdil/RiderProjects/Opdrachten/Les3_dict/bin/Debug/net5.0/Les3_dict.deps.json
+/home/abdil/RiderProjects/Opdrachten/Les3_dict/bin/Debug/net5.0/Les3_dict.runtimeconfig.json
+/home/abdil/RiderProjects/Opdrachten/Les3_dict/bin/Debug/net5.0/Les3_dict.runtimeconfig.dev.json
+/home/abdil/RiderProjects/Opdrachten/Les3_dict/bin/Debug/net5.0/Les3_dict.dll
+/home/abdil/RiderProjects/Opdrachten/Les3_dict/bin/Debug/net5.0/ref/Les3_dict.dll
+/home/abdil/RiderProjects/Opdrachten/Les3_dict/bin/Debug/net5.0/Les3_dict.pdb
+/home/abdil/RiderProjects/Opdrachten/Les3_dict/obj/Debug/net5.0/Les3_dict.csprojAssemblyReference.cache
+/home/abdil/RiderProjects/Opdrachten/Les3_dict/obj/Debug/net5.0/Les3_dict.GeneratedMSBuildEditorConfig.editorconfig
+/home/abdil/RiderProjects/Opdrachten/Les3_dict/obj/Debug/net5.0/Les3_dict.AssemblyInfoInputs.cache
+/home/abdil/RiderProjects/Opdrachten/Les3_dict/obj/Debug/net5.0/Les3_dict.AssemblyInfo.cs
+/home/abdil/RiderProjects/Opdrachten/Les3_dict/obj/Debug/net5.0/Les3_dict.csproj.CoreCompileInputs.cache
+/home/abdil/RiderProjects/Opdrachten/Les3_dict/obj/Debug/net5.0/Les3_dict.dll
+/home/abdil/RiderProjects/Opdrachten/Les3_dict/obj/Debug/net5.0/ref/Les3_dict.dll
+/home/abdil/RiderProjects/Opdrachten/Les3_dict/obj/Debug/net5.0/Les3_dict.pdb
+/home/abdil/RiderProjects/Opdrachten/Les3_dict/obj/Debug/net5.0/Les3_dict.genruntimeconfig.cache
